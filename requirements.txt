@@ -1,0 +1,11 @@
+pypdf
+sentence-transformers
+faiss-cpu
+torch
+transformers
+accelerate
+pandas
+numpy
+google-genai   # optional: only used if GEMINI_API_KEY is set
+jupyter
+nbformat
